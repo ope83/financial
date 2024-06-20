@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Goal tax policy.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
