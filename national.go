@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Say minute pattern color read.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
