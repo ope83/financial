@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Term along can friend across.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
