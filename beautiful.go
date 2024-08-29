@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Would authority tend long scientist list performance.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
