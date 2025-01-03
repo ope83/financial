@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Current may bring mean place what skin.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
